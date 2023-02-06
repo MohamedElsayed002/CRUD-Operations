@@ -1,0 +1,28 @@
+#update{
+    display: none;
+}
+.buttons {
+    display: flex;
+
+}
+button {
+    margin-right : 10px
+}
+body{
+    background-color: #41464b;
+    color: #fff;
+    font-weight: 600;
+    font-family: 'segoe ui light';
+    letter-spacing: 2px;
+}
+input,textarea{
+    background-color: #cacaca !important;
+    border-color: #cacaca !important;
+    color: #41464b !important;
+    font-weight: 600 !important;
+    letter-spacing: 2px;
+
+}
+.shadow{
+    box-shadow: 0 0.7rem 1rem rgba(0,0,0,.15)!important;
+}
